@@ -1,0 +1,10 @@
+* Hej!
+
+Hello, I am Yosef (he/him). I like expensive clothes and a proper hike.
+
+* Computercode & technologie (in french)
+
+I work at [[https:semgrep.dev][semgrepdotdev]], and I mainly write functional code (OCaml)
+& functional code (It kinda works you just gotta finagle it sometimes). I did a
+bunch of things in programming langauges/formal methods in college, and it is
+what im interested in.
